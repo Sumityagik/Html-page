@@ -1,5 +1,7 @@
 # Html-page
 A task is to create a home page created using html and css given by o1codingclub.
+**link of the project**
+http://127.0.0.1:8000/url/task
 **code**
 <!DOCTYPE html>
 {% load static %}
